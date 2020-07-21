@@ -187,7 +187,7 @@
 	</tr>
   <tr>
 	    <td><a href="https://github.com/SnapKit">SnapKit</a></td>
-	    <td><img src="https://avatars1.githubusercontent.com/u/22600631?s=200&v=4" width="75" height="75" /></td>
+	    <td><img src="https://avatars0.githubusercontent.com/u/7809696?s=200&v=4" width="75" height="75" /></td>
 	</tr>
   <tr>
 	    <td><a href="https://github.com/Jasonette">Jasonette</a></td>
