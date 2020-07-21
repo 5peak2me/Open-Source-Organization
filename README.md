@@ -1,6 +1,3 @@
-# Open-Source-Organization
-开源组织
-
 <table style="text-align: center;">
 	<tr>
 	    <th>类型</th>
@@ -8,13 +5,25 @@
 	    <th>组织</th>  
 	</tr>
 	<tr>
-	    <td rowspan="22" bgcolor="1ea27e" style="color:white">国外</td>
+	    <td rowspan="26" bgcolor="1ea27e" style="color:white">国外</td>
     	<td><a href="https://github.com/flutter">flutter</a></td>
 	    <td><img src="https://avatars1.githubusercontent.com/u/14101776?s=100&v=4" width="100" height="100" /></td>
 	</tr>
 	<tr>
     	<td><a href="https://github.com/android">android</a></td>
 	    <td><img src="https://avatars1.githubusercontent.com/u/32689599?s=100&v=4" width="100" height="100" /></td>
+	</tr>
+  <tr>
+    	<td><a href="https://github.com/Kotlin">Kotlin</a></td>
+	    <td><img src="https://avatars2.githubusercontent.com/u/1446536?s=200&v=4" width="100" height="100" /></td>
+	</tr>
+  <tr>
+    	<td><a href="https://github.com/JetBrains">JetBrains</a></td>
+	    <td><img src="https://avatars0.githubusercontent.com/u/878437?s=200&v=4" width="100" height="100" /></td>
+	</tr>
+  <tr>
+    	<td><a href="https://github.com/gradle">Gradle</a></td>
+	    <td><img src="https://avatars3.githubusercontent.com/u/124156?s=200&v=4" width="100" height="100" /></td>
 	</tr>
 	<tr>
     	<td><a href="https://github.com/google">Google</a></td>
@@ -77,8 +86,12 @@
 	    <td><img src="https://avatars2.githubusercontent.com/u/6028820?s=100&amp;v=4" width="100" height="100" /></td>
 	</tr>
   <tr>
-	    <td><a href="https://github.com/wireapp">Wire Swiss GmbH]</a></td>
+	    <td><a href="https://github.com/wireapp">Wire Swiss GmbH</a></td>
 	    <td><img src="https://avatars1.githubusercontent.com/u/16047324?s=100&amp;v=4" width="100" height="100" /></td>
+	</tr>
+  <tr>
+	    <td><a href="https://github.com/cashapp">Cash App</a></td>
+	    <td><img src="https://avatars1.githubusercontent.com/u/49219790?s=200&v=4" width="100" height="100" /></td>
 	</tr>
   <tr>
 	    <td><a href="https://github.com/steelkiwi">Steelkiwi Inc</a></td>
@@ -95,6 +108,62 @@
 	<tr>
 	    <td><a href="https://github.com/futuredapp">futuredapp</a></td>
 	    <td><img src="https://avatars3.githubusercontent.com/u/11898967?s=200&v=4" width="100" height="100" /></td>
+	</tr>
+  <tr>
+	    <td><a href="https://github.com/steelkiwi">steelkiwi</a></td>
+	    <td><img src="https://avatars3.githubusercontent.com/u/5279650?s=200&v=4" width="100" height="100" /></td>
+	</tr>
+  <tr>
+	    <td><a href="https://github.com/Idean">Idean</a></td>
+	    <td><img src="https://avatars1.githubusercontent.com/u/1050942?s=200&v=4" width="100" height="100" /></td>
+	</tr>
+  <tr>
+	    <td><a href="https://github.com/stfalcon-studio">stfalcon-studio</a></td>
+	    <td><img src="https://avatars3.githubusercontent.com/u/814925?s=200&v=4" width="100" height="100" /></td>
+	</tr>
+  <tr>
+	    <td><a href="https://github.com/GravityBox">GravityBox</a></td>
+	    <td><img src="https://avatars1.githubusercontent.com/u/6061426?s=200&v=4" width="100" height="100" /></td>
+	</tr>
+  <tr>
+	    <td><a href="https://github.com/Dropbox">Dropbox</a></td>
+	    <td><img src="https://avatars2.githubusercontent.com/u/559357?s=200&v=4" width="100" height="100" /></td>
+	</tr>
+  <tr>
+	    <td><a href="https://github.com/pinterest">Pinterest</a></td>
+	    <td><img src="https://avatars1.githubusercontent.com/u/541152?s=200&v=4" width="100" height="100" /></td>
+	</tr>
+  <tr>
+	    <td><a href="https://github.com/JetradarMobile">Jetradar Mobile</a></td>
+	    <td><img src="https://avatars0.githubusercontent.com/u/17589181?s=200&v=4" width="100" height="100" /></td>
+	</tr>
+  <tr>
+	    <td><a href="https://github.com/BoltsFramework">BoltsFramework</a></td>
+	    <td><img src="https://avatars0.githubusercontent.com/u/6530429?s=200&v=4" width="100" height="100" /></td>
+	</tr>
+  <tr>
+	    <td><a href="https://github.com/RedApparat">Red Apparat</a></td>
+	    <td><img src="https://avatars0.githubusercontent.com/u/26844652?s=200&v=4" width="100" height="100" /></td>
+	</tr>
+  <tr>
+	    <td><a href="https://github.com/2d-inc">2D, Inc</a></td>
+	    <td><img src="https://avatars1.githubusercontent.com/u/17285096?s=200&v=4" width="100" height="100" /></td>
+	</tr>
+  <tr>
+	    <td><a href="https://github.com/parse-community">Parse Community</a></td>
+	    <td><img src="https://avatars0.githubusercontent.com/u/26932219?s=200&v=4" width="100" height="100" /></td>
+	</tr>
+  <tr>
+	    <td><a href="https://github.com/edmodo">Edmodo</a></td>
+	    <td><img src="https://avatars1.githubusercontent.com/u/882136?s=200&v=4" width="100" height="100" /></td>
+	</tr>
+  <tr>
+	    <td><a href="https://github.com/fluttercommunity">Flutter Community</a></td>
+	    <td><img src="https://avatars3.githubusercontent.com/u/35045612?s=200&v=4" width="100" height="100" /></td>
+	</tr>
+  <tr>
+	    <td><a href="https://github.com/anitab-org">AnitaB.org Open Source</a></td>
+	    <td><img src="https://avatars1.githubusercontent.com/u/47870548?s=200&v=4" width="100" height="100" /></td>
 	</tr>
   <!-- 国内开源组织开始，国外的在上面加，并修改`rowspan="18"`++ -->
   <tr>
@@ -385,4 +454,3 @@
 	    <td><img src="https://avatars2.githubusercontent.com/u/6128438?s=100&amp;v=4" width="100" height="100" /></td>
 	</tr>
 </table>
-
