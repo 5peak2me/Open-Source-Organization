@@ -172,7 +172,7 @@
 	</tr>
   <tr>
     	<td><a href="https://github.com/alibaba-flutter">alibaba-flutter</a></td>
-	    <td><img src="https://avatars0.githubusercontent.com/u/43160974?s=100&amp;v=4" style="width:70px;height:70px;" /></td>
+	    <td><img src="https://avatars0.githubusercontent.com/u/43160974?s=100&amp;v=4" width="100" height="100" /></td>
 	</tr>
   <tr>
     	<td><a href="https://github.com/fluttercandies">fluttercandies</a></td>
