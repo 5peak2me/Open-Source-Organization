@@ -183,7 +183,7 @@
 	</tr>
   <tr>
 	    <td><a href="https://github.com/corda">Corda</a></td>
-	    <td><img src="https://avatars2.githubusercontent.com/u/709212?s=200&v=4" width="100" height="100" /></td>
+	    <td><img src="https://avatars1.githubusercontent.com/u/22600631?s=200&v=4" width="100" height="100" /></td>
 	</tr>
   <tr>
 	    <td><a href="https://github.com/SnapKit">SnapKit</a></td>
